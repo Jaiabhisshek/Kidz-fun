@@ -1,1 +1,1 @@
-# Kidz-fun
+# kidz-world-static
